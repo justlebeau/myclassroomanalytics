@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Classroom Analytics</title>
+    <link>/</link>
+    <description>Recent content on My Classroom Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>For Your Classroom</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Our dashboard is designed for quick access to meaningful information for your class. We want to allow you to access classroom data in a quick and meaningful way. The My Classroom Analytics Dashboard tool is works easily with Google Classroom &amp;reg;. Data can be exported from Google Classroom &amp;reg; and imported into the dashboard tool where you can quickly view your students&amp;rsquo; information with easy to understand data visualizations and information boxes.</description>
+    </item>
+    
+    <item>
+      <title>Ease of Use</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Different tabs in the dashboard provide a variety of ways to view your students&amp;rsquo; information. For classes using differentiated learning methods, the dashboard provides an easy way to determine different groups based on the information imported into the dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Helpful information from small data</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>Multiple tests, terms, or grades can be used to track students&amp;rsquo; progress over time and see their growth in comparison to their classmates.
+Our hope is that your classroom can become a place where your small data can be used to have big impacts on how your students&amp;rsquo; progress can be understood.</description>
+    </item>
+    
+    <item>
+      <title>Dashboards and Tools</title>
+      <link>/pricing/pricing/</link>
+      <pubDate>Fri, 01 Sep 2017 17:39:43 +0200</pubDate>
+      
+      <guid>/pricing/pricing/</guid>
+      <description>Access the My Classroom Analytics Dashboard</description>
+    </item>
+    
+    <item>
+      <title>Quick analysis for classroom data</title>
+      <link>/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

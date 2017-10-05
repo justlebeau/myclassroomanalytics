@@ -1,0 +1,23 @@
+baseurl = "http://yourdomain.com"
+languageCode = "en-us"
+title = "My Classroom Analytics"
+canonifyUrls = "true"
+
+[params]
+    accent = "black"
+    showBorder = true
+    font = "Cormorant Garamond" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    description = "Analytics tailored for your classroom"
+    logoSmall = "/img/logo.png"
+    ##custom_css = ["css/local.css"]
+    
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:info@myclassroomanalytics.com"
+[[params.social]]
+    title = "youtube"
+    icon = "youtube-play"
+    url = "https://www.youtube.com/watch?v=fSQNIelA6Nw"
