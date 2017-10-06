@@ -21,7 +21,3 @@ canonifyUrls = "true"
     title = "youtube"
     icon = "youtube-play"
     url = "https://www.youtube.com/watch?v=fSQNIelA6Nw"
-[[params.social]]
-    title = "dashboard"
-    icon = "bar-chart"
-    url = "https://datavaapps.shinyapps.io/dailygradedash/"
