@@ -6,4 +6,6 @@ img = "dog.png"
 weight = 1
 +++
 
-Our dashboard is designed for quick access to meaningful information for your class.  We want to allow you to access classroom data in a quick and meaningful way.  The My Classroom Analytics Dashboard tool is works easily with Google Classroom &reg;.  Data can be exported from Google Classroom &reg; and imported into the dashboard tool where you can quickly view your students' information with easy to understand data visualizations and information boxes.
+Our dashboard is designed for quick access to meaningful information for your class.  Importing your data is a simple process that enables you to see actionable insights.  Using the insights from the dashboard, your classroom can be immediately impacted.
+
+This tool helps personalize classroom data to support data-based decisions for quick use in your class.
