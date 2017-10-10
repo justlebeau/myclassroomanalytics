@@ -5,4 +5,4 @@ title = "Access the Dashboard"
 weight = 4
 +++
 
-## [Click Here Access the dashboard](https://datavaapps.shinyapps.io/dailygradedash)
+## [Click Here To Access the dashboard](https://datavaapps.shinyapps.io/dailygradedash)
