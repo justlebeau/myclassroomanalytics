@@ -1,4 +1,4 @@
-baseurl = "http://myclassroomanalytics.com"
+baseurl = "https://myclassroomanalytics.com"
 languageCode = "en-us"
 title = "My Classroom Analytics"
 canonifyUrls = "true"
