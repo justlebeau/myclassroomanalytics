@@ -37,24 +37,6 @@
             }
         ]
     },
-    {
-        "name": "Premium",
-        "link": "signup/premium",
-        "linkText": "Signup",
-        "features": [
-            {
-                "name": "Premium-Feature1",
-                "description": "you can do..."
-            },
-            {
-                "name": "Premium-Feature2",
-                "description": "more details"
-            },
-            {
-                "name": "Premium-Feature3",
-                "description": "you can't believe it"
-            }
-        ]
-    }
+  
 
 ]
